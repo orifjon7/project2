@@ -1,0 +1,15 @@
+.Navbar-wr{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-left: 10%;
+}
+.Navbar-left{
+    display: flex;
+    flex: 1;
+}
+.Navbar-right{
+    display: flex;
+flex: 1;
+justify-content: space-evenly;
+}
